@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/github-profile-banner.png"
+    alt="Jürgen Malinowski - Fullstack Web Developer and IT Consultant"
+    width="100%"
+  />
+</p>
+
 ## Tech Stack
 
 ### Frontend
