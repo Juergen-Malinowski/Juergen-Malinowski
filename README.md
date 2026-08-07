@@ -50,3 +50,15 @@
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+
+## About Me
+
+I am a certified Fullstack Web Developer with a strong background in business, consulting and customer communication.
+
+My technical focus is on JavaScript, TypeScript and Angular in the frontend, as well as Python, Django and Django REST Framework in the backend. I also work with PostgreSQL, Docker, Git, GitHub and test-driven development with pytest.
+
+Before moving professionally into software development, I gained many years of experience in consulting, sales and business processes, including more than eight years in financial consulting. This background helps me understand requirements from both a technical and a business perspective.
+
+Alongside software development, I am particularly interested in IT Consulting as a combination of technology, process analysis and client-oriented problem solving.
+
+AI is an integral part of my development workflow and supports me in planning, analysis, coding, debugging and quality assurance.
