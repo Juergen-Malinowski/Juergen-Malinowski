@@ -6,6 +6,20 @@
   />
 </p>
 
+<p align="center">
+  Fullstack Web Developer with a strong background in business, consulting and customer communication.<br>
+  I combine software development with process-oriented thinking and a strong interest in IT Consulting.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jürgen-malinowski-289253425/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kontakt@juergen-malinowski.de">
+    <img src="https://img.shields.io/badge/E--Mail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail">
+  </a>
+</p>
+
 ## Tech Stack
 
 ### Frontend
