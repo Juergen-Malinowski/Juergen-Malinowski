@@ -65,7 +65,7 @@ AI is an integral part of my development workflow and supports me in planning, a
 
 ## Professional Strengths
 
-- **Consulting & Sales** – Many years of experience in client consulting, needs analysis, solution-oriented communication, conflict prevention and sales.
+- **Consulting & Sales** – More than eight years of experience in client consulting, needs analysis, solution-oriented communication, conflict prevention and sales.
 
 - **Leadership & Training** – Five years of experience in leading and training sales teams, teaching IHK professional training and delivering courses in communication, telephone acquisition and sales techniques.
 
