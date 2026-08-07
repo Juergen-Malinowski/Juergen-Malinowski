@@ -77,7 +77,12 @@ The following projects were completed as part of my 12-month Fullstack Web Devel
 
 Each project focused on applying specific learning objectives in practice, with the technical complexity increasing progressively throughout the program. The projects are therefore presented here in reverse order, starting with the most advanced ones.
 
-### Backend Projects
+<br>
+
+<img
+  src="https://img.shields.io/badge/BACKEND_PROJECTS-2B7CA7?style=for-the-badge"
+  alt="Backend Projects"
+/>
 
 #### Videoflix
 
