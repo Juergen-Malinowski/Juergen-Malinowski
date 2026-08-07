@@ -7,6 +7,11 @@
 </p>
 
 <p align="center">
+  Fullstack Web Developer with a strong background in business, consulting and customer communication.<br>
+  I combine software development with process-oriented thinking and a strong interest in IT Consulting.
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jürgen-malinowski-289253425/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-2B7CA7?style=for-the-badge&logo=linkedin&logoColor=white"
