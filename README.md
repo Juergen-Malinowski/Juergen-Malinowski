@@ -136,6 +136,174 @@ The application provides APIs for authentication, user profiles, offers, orders 
 Backend for a project management application with boards, tasks and comments.  
 The project focuses on structured REST APIs, authentication, object-level permissions and the integration of an existing frontend with a Django backend.
 
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/FRONTEND_PROJECTS-168C9D?style=for-the-badge"
+  alt="Frontend Projects"
+/>
+
+#### Portfolio
+
+<img src="./assets/projects/frontend/portfolio.webp" width="220" alt="Portfolio Preview" />
+
+Personal portfolio website created to present projects, skills and profile in a clear and professional way.  
+The project highlights frontend structure, design implementation and personal presentation.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_PORTFOLIO_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### El Pollo Loco
+
+<img src="./assets/projects/frontend/el-pollo-loco.webp" width="220" alt="El Pollo Loco Preview" />
+
+Browser-based jump-and-run game developed with object-oriented JavaScript and Canvas.  
+The project focuses on game logic, object interaction, animation and structured frontend programming.
+
+**Tech Stack:** HTML · CSS · JavaScript · OOP · Canvas
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_EL_POLLO_LOCO_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Join
+
+<img src="./assets/projects/frontend/join.webp" width="220" alt="Join Preview" />
+
+Kanban-based project management application developed in team collaboration.  
+This project gave me hands-on experience in working in a structured development team using Scrum and Kanban principles.
+
+**Tech Stack:** HTML · CSS · JavaScript · Firebase
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Teamwork-2B7CA7?style=flat-square" alt="Project Teamwork" />
+  <img src="https://img.shields.io/badge/Workflow-Scrum%20%7C%20Kanban-168C9D?style=flat-square" alt="Scrum Kanban" />
+  <a href="REPLACE_WITH_YOUR_JOIN_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Pokedex
+
+<img src="./assets/projects/frontend/pokedex.webp" width="220" alt="Pokedex Preview" />
+
+Pokédex web application built with API integration.  
+The project focuses on working with external data sources, dynamic rendering and interactive user interface behavior.
+
+**Tech Stack:** HTML · CSS · JavaScript · REST API
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_POKEDEX_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Bestell App
+
+<img src="./assets/projects/frontend/bestellapp.webp" width="220" alt="Bestell App Preview" />
+
+Ordering app for practicing shopping cart functionality and more advanced business logic in JavaScript.  
+The project helped deepen my understanding of state handling and interactive frontend behavior.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_BESTELLAPP_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Bookstore
+
+<img src="./assets/projects/frontend/bookstore.webp" width="220" alt="Bookstore Preview" />
+
+Frontend bookstore application working with larger JSON structures and dynamic content rendering.  
+Users can browse books and interact with the application through client-side functionality.
+
+**Tech Stack:** HTML · CSS · JavaScript · JSON
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_BOOKSTORE_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Fotogram
+
+<img src="./assets/projects/frontend/fotogram.webp" width="220" alt="Fotogram Preview" />
+
+Photo app inspired by social media interaction.  
+The project focuses on JavaScript-based interactivity, rendering media content and improving frontend user experience.
+
+**Tech Stack:** HTML · CSS · JavaScript
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_FOTOGRAM_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Sakura Ramen Responsive
+
+<img src="./assets/projects/frontend/sakura-ramen-responsive.webp" width="220" alt="Sakura Ramen Responsive Preview" />
+
+Responsive version of the Sakura Ramen website.  
+This project focused on adapting layouts for different screen sizes and creating a clean user experience across devices.
+
+**Tech Stack:** HTML · CSS · Responsive Design
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_SAKURA_RAMEN_RESPONSIVE_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+---
+
+#### Sakura Ramen
+
+<img src="./assets/projects/frontend/sakura-ramen.webp" width="220" alt="Sakura Ramen Preview" />
+
+One of my first frontend training projects: a website for a Japanese ramen restaurant.  
+The project focused on building a structured desktop layout and applying core HTML and CSS fundamentals.
+
+**Tech Stack:** HTML · CSS
+
+<p>
+  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
+  <a href="REPLACE_WITH_YOUR_SAKURA_RAMEN_REPO_LINK">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
 **Tech Stack:** Python · Django · Django REST Framework · REST APIs · Token Authentication · Permissions
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
