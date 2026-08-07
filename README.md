@@ -70,3 +70,69 @@ AI is an integral part of my development workflow and supports me in planning, a
 - **Leadership & Training** – Five years of experience in leading and training sales teams, teaching IHK professional training and delivering courses in communication, telephone acquisition and sales techniques.
 
 - **Business & Industry Knowledge** – Extensive experience in insurance and financial services, complemented by practical knowledge of banking, retail, automotive sales and logistics.
+
+## Training Projects
+
+The following projects were completed as part of my 12-month Fullstack Web Development training at Developer Akademie.
+
+Each project focused on applying specific learning objectives in practice, with the technical complexity increasing progressively throughout the program. The projects are therefore presented here in reverse order, starting with the most advanced ones.
+
+### Backend Projects
+
+#### Videoflix
+
+<img src="./assets/projects/backend/videoflix.webp" alt="Videoflix" width="220">
+
+Netflix-inspired video streaming backend built with Django REST Framework.  
+The project includes secure authentication, asynchronous video processing, multi-resolution HLS streaming, caching and containerized deployment.
+
+**Tech Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django RQ · FFmpeg · HLS · Docker · Gunicorn · pytest
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Backend-Project-Videoflix)
+
+---
+
+#### Quizly
+
+<img src="./assets/projects/backend/quizly.webp" alt="Quizly" width="220">
+
+AI-powered backend that transforms YouTube videos into interactive quizzes.  
+Video audio is extracted and transcribed with Whisper before Gemini automatically generates quiz questions from the transcription.
+
+**Tech Stack:** Python · Django · Django REST Framework · Whisper · Gemini API · yt-dlp · FFmpeg · JWT · pytest
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Backend-Project-Quizly)
+
+---
+
+#### Coderr
+
+<img src="./assets/projects/backend/coderr.webp" alt="Coderr" width="220">
+
+Backend for a freelancer developer platform connecting customers with business users and their service offers.  
+The application provides APIs for authentication, user profiles, offers, orders and reviews and integrates with a separately developed frontend.
+
+**Tech Stack:** Python · Django · Django REST Framework · REST APIs · Authentication · pytest
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Backend-Project-Coderr)
+
+---
+
+#### KanMind
+
+<img src="./assets/projects/backend/kanmind.webp" alt="KanMind" width="220">
+
+Backend for a project management application with boards, tasks and comments.  
+The project focuses on structured REST APIs, authentication, object-level permissions and the integration of an existing frontend with a Django backend.
+
+**Tech Stack:** Python · Django · Django REST Framework · REST APIs · Token Authentication · Permissions
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Project-KanMind)
