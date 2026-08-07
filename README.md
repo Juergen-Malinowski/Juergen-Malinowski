@@ -62,3 +62,11 @@ Before moving professionally into software development, I gained many years of e
 Alongside software development, I am particularly interested in IT Consulting as a combination of technology, process analysis and client-oriented problem solving.
 
 AI is an integral part of my development workflow and supports me in planning, analysis, coding, debugging and quality assurance.
+
+## Professional Strengths
+
+- **Consulting & Sales** – Many years of experience in client consulting, needs analysis, solution-oriented communication, conflict prevention and sales.
+
+- **Leadership & Training** – Five years of experience in leading and training sales teams, teaching IHK professional training and delivering courses in communication, telephone acquisition and sales techniques.
+
+- **Business & Industry Knowledge** – Extensive experience in insurance and financial services, complemented by practical knowledge of banking, retail, automotive sales and logistics.
