@@ -71,6 +71,20 @@ AI is an integral part of my development workflow and supports me in planning, a
 
 - **Business & Industry Knowledge** – Extensive experience in insurance and financial services, complemented by practical knowledge of banking, retail, automotive sales and logistics.
 
+## Development Approach
+
+- **Backend – Test-Driven Development (TDD):** I use a test-driven approach in backend development. Automated tests are written before the actual implementation of a feature and define the expected behavior. The application code is then developed until the tests pass successfully. With pytest, I test API behavior, permissions, validation, HTTP status codes, error cases and edge cases, among other aspects.
+
+- **Frontend – Browser Testing & Debugging:** In frontend development, I verify functionality, user interactions and visual presentation directly in the application. For debugging and analysis, I primarily use browser developer tools, including the console, DOM and CSS inspection, network monitoring and breakpoints for step-by-step analysis of JavaScript execution. I also test different screen sizes and responsive layouts.
+
+- **Structured Software Development:** I focus on clearly separated responsibilities and understandable program structures. In backend development, for example, I separate views, services, utilities, serializers and data models to keep applications maintainable and extensible.
+
+- **REST API Development:** I design and implement APIs with clear endpoint structures, authentication, permissions, validation and meaningful HTTP responses. I connect frontend and backend through clearly defined interfaces.
+
+- **Git-Based Development:** I use Git and GitHub for version control, traceable commits and collaboration on shared software projects.
+
+- **AI-Assisted Development:** AI is an integrated part of my development workflow and supports me in planning, analysis, organization, programming, debugging and quality assurance.
+
 ## Training Projects
 
 The following projects were completed as part of my 12-month Fullstack Web Development training at Developer Akademie.
@@ -332,3 +346,9 @@ The project focused on building a structured desktop layout and applying core HT
 
 ---
 
+## Let's Connect
+
+I am interested in opportunities in Fullstack Web Development, Backend Development and IT Consulting where I can combine software development with process-oriented thinking and client-focused problem solving.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2B7CA7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jürgen-malinowski-289253425/)
+[![E-Mail](https://img.shields.io/badge/E--Mail-Contact-168C9D?style=for-the-badge)](mailto:kontakt@juergen-malinowski.de)
