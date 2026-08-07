@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kontakt@juergen-malinowski.de">
-    <img src="https://img.shields.io/badge/E--Mail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail">
+    <img src="https://img.shields.io/badge/E--Mail-Contact-EA4335?style=for-the-badge" alt="E-Mail">
   </a>
 </p>
 
