@@ -82,6 +82,7 @@ Each project focused on applying specific learning objectives in practice, with 
 <img
   src="https://img.shields.io/badge/BACKEND_PROJECTS-2B7CA7?style=for-the-badge"
   alt="Backend Projects"
+  width="240"
 />
 
 #### Videoflix
@@ -147,6 +148,7 @@ The project focuses on structured REST APIs, authentication, object-level permis
 <img
   src="https://img.shields.io/badge/FRONTEND_PROJECTS-168C9D?style=for-the-badge"
   alt="Frontend Projects"
+  width="240"
 />
 
 #### Portfolio
@@ -157,6 +159,8 @@ Personal portfolio website created to present projects, skills and profile in a 
 The project highlights frontend structure, design implementation and personal presentation.
 
 **Tech Stack:** HTML · CSS · JavaScript
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
 <a href="https://github.com/Juergen-Malinowski/portfolio">
   <img
@@ -176,6 +180,8 @@ The project focuses on game logic, object interaction, animation and structured 
 
 **Tech Stack:** HTML · CSS · JavaScript · OOP · Canvas
 
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
 <a href="https://github.com/Juergen-Malinowski/modul-12-el-pollo-loco">
   <img
     src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
@@ -193,6 +199,9 @@ Kanban-based project management application developed in team collaboration.
 This project gave me hands-on experience in working in a structured development team using Scrum and Kanban principles.
 
 **Tech Stack:** HTML · CSS · JavaScript · Firebase
+
+![Team Project](https://img.shields.io/badge/Project-Team-2B7CA7?style=flat-square)
+![Scrum & Kanban](https://img.shields.io/badge/Workflow-Scrum_%26_Kanban-168C9D?style=flat-square)
 
 <a href="https://github.com/Juergen-Malinowski/Join">
   <img
@@ -212,6 +221,8 @@ The project focuses on working with external data sources, dynamic rendering and
 
 **Tech Stack:** HTML · CSS · JavaScript · REST API
 
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
 <a href="https://github.com/Juergen-Malinowski/modul-8-pokemon-api">
   <img
     src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
@@ -229,6 +240,8 @@ Ordering app for practicing shopping cart functionality and more advanced busine
 The project helped deepen my understanding of state handling and interactive frontend behavior.
 
 **Tech Stack:** HTML · CSS · JavaScript
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
 <a href="https://github.com/Juergen-Malinowski/modul-7-bestell-app">
   <img
@@ -248,6 +261,8 @@ Users can browse books and interact with the application through client-side fun
 
 **Tech Stack:** HTML · CSS · JavaScript · JSON
 
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
 <a href="https://github.com/Juergen-Malinowski/modul-7-bookstore">
   <img
     src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
@@ -265,6 +280,8 @@ Photo app inspired by social media interaction.
 The project focuses on JavaScript-based interactivity, rendering media content and improving frontend user experience.
 
 **Tech Stack:** HTML · CSS · JavaScript
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
 <a href="https://github.com/Juergen-Malinowski/modul-6-fotogram">
   <img
@@ -284,6 +301,8 @@ This project focused on adapting layouts for different screen sizes and creating
 
 **Tech Stack:** HTML · CSS · Responsive Design
 
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
 <a href="https://github.com/Juergen-Malinowski/modul-5-hausaufgabe-sakura-resposive">
   <img
     src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
@@ -301,6 +320,8 @@ One of my first frontend training projects: a website for a Japanese ramen resta
 The project focused on building a structured desktop layout and applying core HTML and CSS fundamentals.
 
 **Tech Stack:** HTML · CSS
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
 <a href="https://github.com/Juergen-Malinowski/sakura">
   <img
