@@ -136,6 +136,12 @@ The application provides APIs for authentication, user profiles, offers, orders 
 Backend for a project management application with boards, tasks and comments.  
 The project focuses on structured REST APIs, authentication, object-level permissions and the integration of an existing frontend with a Django backend.
 
+**Tech Stack:** Python · Django · Django REST Framework · REST APIs · Token Authentication · Permissions
+
+![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
+
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Project-KanMind)
+
 <br><br>
 
 <img
@@ -152,12 +158,12 @@ The project highlights frontend structure, design implementation and personal pr
 
 **Tech Stack:** HTML · CSS · JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_PORTFOLIO_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/portfolio">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Portfolio Repository"
+  />
+</a>
 
 ---
 
@@ -170,12 +176,12 @@ The project focuses on game logic, object interaction, animation and structured 
 
 **Tech Stack:** HTML · CSS · JavaScript · OOP · Canvas
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_EL_POLLO_LOCO_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/modul-12-el-pollo-loco">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="El Pollo Loco Repository"
+  />
+</a>
 
 ---
 
@@ -188,13 +194,12 @@ This project gave me hands-on experience in working in a structured development 
 
 **Tech Stack:** HTML · CSS · JavaScript · Firebase
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Teamwork-2B7CA7?style=flat-square" alt="Project Teamwork" />
-  <img src="https://img.shields.io/badge/Workflow-Scrum%20%7C%20Kanban-168C9D?style=flat-square" alt="Scrum Kanban" />
-  <a href="REPLACE_WITH_YOUR_JOIN_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/Join">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Join Repository"
+  />
+</a>
 
 ---
 
@@ -207,12 +212,12 @@ The project focuses on working with external data sources, dynamic rendering and
 
 **Tech Stack:** HTML · CSS · JavaScript · REST API
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_POKEDEX_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/modul-8-pokemon-api">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Pokedex Repository"
+  />
+</a>
 
 ---
 
@@ -225,12 +230,12 @@ The project helped deepen my understanding of state handling and interactive fro
 
 **Tech Stack:** HTML · CSS · JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_BESTELLAPP_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/modul-7-bestell-app">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Bestell App Repository"
+  />
+</a>
 
 ---
 
@@ -243,12 +248,12 @@ Users can browse books and interact with the application through client-side fun
 
 **Tech Stack:** HTML · CSS · JavaScript · JSON
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_BOOKSTORE_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/modul-7-bookstore">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Bookstore Repository"
+  />
+</a>
 
 ---
 
@@ -261,12 +266,12 @@ The project focuses on JavaScript-based interactivity, rendering media content a
 
 **Tech Stack:** HTML · CSS · JavaScript
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_FOTOGRAM_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/modul-6-fotogram">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Fotogram Repository"
+  />
+</a>
 
 ---
 
@@ -279,12 +284,12 @@ This project focused on adapting layouts for different screen sizes and creating
 
 **Tech Stack:** HTML · CSS · Responsive Design
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_SAKURA_RAMEN_RESPONSIVE_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
+<a href="https://github.com/Juergen-Malinowski/modul-5-hausaufgabe-sakura-resposive">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Sakura Ramen Responsive Repository"
+  />
+</a>
 
 ---
 
@@ -297,18 +302,12 @@ The project focused on building a structured desktop layout and applying core HT
 
 **Tech Stack:** HTML · CSS
 
-<p>
-  <img src="https://img.shields.io/badge/Project-Solo-2B7CA7?style=flat-square" alt="Project Solo" />
-  <a href="REPLACE_WITH_YOUR_SAKURA_RAMEN_REPO_LINK">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
-
-**Tech Stack:** Python · Django · Django REST Framework · REST APIs · Token Authentication · Permissions
-
-![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
-
-[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Project-KanMind)
+<a href="https://github.com/Juergen-Malinowski/sakura">
+  <img
+    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
+    alt="Sakura Ramen Repository"
+  />
+</a>
 
 ---
 
