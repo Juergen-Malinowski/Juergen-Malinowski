@@ -309,3 +309,6 @@ The project focused on building a structured desktop layout and applying core HT
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
 [![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Project-KanMind)
+
+---
+
