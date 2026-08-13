@@ -140,6 +140,7 @@ The application provides APIs for authentication, user profiles, offers, orders 
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coderr.juergen-malinowski.de)
 [![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Backend-Project-Coderr)
 
 ---
