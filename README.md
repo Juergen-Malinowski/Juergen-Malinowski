@@ -231,19 +231,16 @@ This project gave me hands-on experience in working in a structured development 
 
 <img src="./assets/projects/frontend/pokedex.webp" width="220" alt="Pokedex Preview" />
 
-Pokédex web application built with API integration.  
-The project focuses on working with external data sources, dynamic rendering and interactive user interface behavior.
+Responsive Pokédex web application that loads Pokémon data from the public PokéAPI and provides an interactive overview, search and detail views.  
+The project focuses on REST API integration, dynamic rendering, responsive design, accessibility and robust error handling.
 
 **Tech Stack:** HTML · CSS · JavaScript · REST API
 
+
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
-<a href="https://github.com/Juergen-Malinowski/modul-8-pokemon-api">
-  <img
-    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
-    alt="Pokedex Repository"
-  />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pokedex.juergen-malinowski.de)
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/modul-8-pokemon-api)
 
 ---
 
