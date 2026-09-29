@@ -248,19 +248,15 @@ The project focuses on REST API integration, dynamic rendering, responsive desig
 
 <img src="./assets/projects/frontend/bestellapp.webp" width="220" alt="Bestell App Preview" />
 
-Ordering app for practicing shopping cart functionality and more advanced business logic in JavaScript.  
-The project helped deepen my understanding of state handling and interactive frontend behavior.
+Responsive ordering app with a dynamic shopping basket, quantity controls, price calculations, delivery costs and a simulated order workflow.  
+The project focuses on application state, session-based basket persistence, responsive design and interactive business logic in Vanilla JavaScript.
 
 **Tech Stack:** HTML · CSS · JavaScript
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
-<a href="https://github.com/Juergen-Malinowski/modul-7-bestell-app">
-  <img
-    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
-    alt="Bestell App Repository"
-  />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bestell-app.juergen-malinowski.de)
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/modul-7-bestell-app)
 
 ---
 
