@@ -7,9 +7,11 @@
 </p>
 
 <p align="center">
-  Fullstack Web Developer with a strong background in business, consulting and customer communication.<br>
-  I combine software development with process-oriented thinking and a strong interest in IT Consulting.
+  Fullstack Web Developer with a strong interest in software development, IT consulting and application support.<br><br>
+  I am particularly interested in roles at the intersection of technology, business processes and consulting, 
+  where I can combine technical understanding with process-oriented thinking and communication.
 </p>
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jürgen-malinowski-289253425/">
