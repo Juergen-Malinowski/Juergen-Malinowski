@@ -93,6 +93,30 @@ Each project focused on applying specific learning objectives in practice, with 
 
 <br>
 
+### Project Index
+
+**Backend Projects**
+
+- [Videoflix](#videoflix)
+- [Quizly](#quizly)
+- [Coderr](#coderr)
+- [KanMind](#kanmind)
+
+**Frontend Projects**
+
+- [Portfolio](#portfolio)
+- [El Pollo Loco](#el-pollo-loco)
+- [Join](#join)
+- [Pokedex](#pokedex)
+- [Bestell App](#bestell-app)
+- [Bookstore](#bookstore)
+- [Fotogram](#fotogram)
+- [Sakura Ramen Responsive](#sakura-ramen-responsive)
+- [Sakura Ramen](#sakura-ramen)
+
+<br>
+<br>
+
 <img
   src="https://img.shields.io/badge/BACKEND_PROJECTS-2B7CA7?style=for-the-badge"
   alt="Backend Projects"
