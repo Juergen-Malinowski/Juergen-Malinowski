@@ -175,13 +175,14 @@ The application provides APIs for authentication, user profiles, offers, orders 
 
 <img src="./assets/projects/backend/kanmind.webp" alt="KanMind" width="220">
 
-Backend for a project management application with boards, tasks and comments.  
-The project focuses on structured REST APIs, authentication, object-level permissions and the integration of an existing frontend with a Django backend.
+Backend for a project management application with authentication, boards, tasks and comments.  
+The project focuses on structured REST APIs, validation, object-level permissions and the integration of a provided frontend with a custom Django REST Framework backend.
 
-**Tech Stack:** Python · Django · Django REST Framework · REST APIs · Token Authentication · Permissions
+**Tech Stack:** Python · Django · Django REST Framework · SQLite · Token Authentication · Object-Level Permissions · Gunicorn · Nginx
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kanmind.juergen-malinowski.de)
 [![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Project-KanMind)
 
 <br><br>
