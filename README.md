@@ -129,10 +129,10 @@ Each project focused on applying specific learning objectives in practice, with 
 
 <img src="./assets/projects/backend/videoflix.webp" alt="Videoflix" width="220">
 
-Netflix-inspired video streaming backend built with Django REST Framework.  
-The project includes secure authentication, asynchronous video processing, multi-resolution HLS streaming, caching and containerized deployment.
+Netflix-inspired video streaming backend with secure account management and protected media delivery.  
+The project includes email-based activation, cookie-based JWT authentication, asynchronous video processing, multi-resolution HLS streaming, Redis-backed caching and a containerized Docker architecture.
 
-**Tech Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django RQ · FFmpeg · HLS · Docker · Gunicorn · pytest
+**Tech Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django RQ · FFmpeg · HLS · Docker · Docker Compose · Gunicorn · WhiteNoise · Pillow · SimpleJWT · django-redis · django-cors-headers · pytest
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
