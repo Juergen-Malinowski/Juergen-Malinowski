@@ -157,12 +157,14 @@ Video audio is extracted and transcribed with Whisper before Gemini automaticall
 
 #### Coderr
 
+<br>
 <img src="./assets/projects/backend/coderr.webp" alt="Coderr" width="220">
+<br>
 
-Backend for a freelancer developer platform connecting customers with business users and their service offers.  
-The application provides APIs for authentication, user profiles, offers, orders and reviews and integrates with a separately developed frontend.
+Backend for a freelancer marketplace connecting customers with business users and their service offers.  
+The application provides REST APIs for authentication, user profiles, offers, orders and reviews, including role-based workflows and integration with a separately provided frontend.
 
-**Tech Stack:** Python · Django · Django REST Framework · REST APIs · Authentication · pytest
+**Tech Stack:** Python · Django · Django REST Framework · REST APIs · SQLite · Token Authentication · pytest · Gunicorn · Nginx
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
