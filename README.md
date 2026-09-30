@@ -145,9 +145,9 @@ The project includes email-based activation, cookie-based JWT authentication, as
 <img src="./assets/projects/backend/quizly.webp" alt="Quizly" width="220">
 
 AI-powered backend that transforms YouTube videos into interactive quizzes.  
-Video audio is extracted and transcribed with Whisper before Gemini automatically generates quiz questions from the transcription.
+The backend extracts video audio with yt-dlp, transcribes it locally with Whisper and uses Gemini to generate structured quiz questions, while JWT authentication in HttpOnly cookies protects user-specific quiz data.
 
-**Tech Stack:** Python · Django · Django REST Framework · Whisper · Gemini API · yt-dlp · FFmpeg · JWT · pytest
+**Tech Stack:** Python · Django · Django REST Framework · yt-dlp · FFmpeg · OpenAI Whisper · Gemini API · google-genai · SimpleJWT · HttpOnly Cookies · django-cors-headers · pytest
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
