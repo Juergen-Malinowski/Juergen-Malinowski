@@ -173,7 +173,9 @@ The application provides APIs for authentication, user profiles, offers, orders 
 
 #### KanMind
 
+<br>
 <img src="./assets/projects/backend/kanmind.webp" alt="KanMind" width="220">
+<br>
 
 Backend for a project management application with authentication, boards, tasks and comments.  
 The project focuses on structured REST APIs, validation, object-level permissions and the integration of a provided frontend with a custom Django REST Framework backend.
