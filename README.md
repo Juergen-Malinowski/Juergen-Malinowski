@@ -201,19 +201,15 @@ The project focuses on structured REST APIs, validation, object-level permission
 
 <img src="./assets/projects/frontend/portfolio.webp" width="220" alt="Portfolio Preview" />
 
-Personal portfolio website created to present projects, skills and profile in a clear and professional way.  
-The project highlights frontend structure, design implementation and personal presentation.
+Responsive bilingual developer portfolio built with Angular and TypeScript to present projects, technical skills and professional background.  
+The application uses standalone components, Angular routing, internationalization and Reactive Forms, and includes dedicated legal pages, live project links and a PHP-backed contact form.
 
-**Tech Stack:** HTML · CSS · JavaScript
+**Tech Stack:** Angular 20 · TypeScript · SCSS · Angular Router · Angular Reactive Forms · Angular HttpClient · ngx-translate · RxJS · PHP · Apache / .htaccess
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
-<a href="https://github.com/Juergen-Malinowski/portfolio">
-  <img
-    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
-    alt="Portfolio Repository"
-  />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.juergen-malinowski.de)
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/portfolio)
 
 ---
 
