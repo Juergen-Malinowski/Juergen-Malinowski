@@ -241,20 +241,16 @@ The project focuses on game logic, object interaction, animation and structured 
 
 <img src="./assets/projects/frontend/join.webp" width="220" alt="Join Preview" />
 
-Kanban-based project management application developed in team collaboration.  
-This project gave me hands-on experience in working in a structured development team using Scrum and Kanban principles.
+Kanban-based task and contact management application developed as a team project and later technically refined for portfolio use.  
+The application includes Firebase authentication, a responsive four-column Kanban board with drag-and-drop, task and contact management, subtasks, assignments and a summary dashboard.
 
-**Tech Stack:** HTML · CSS · JavaScript · Firebase
+**Tech Stack:** Angular 20 · TypeScript · SCSS · Angular Material · Angular CDK · AngularFire · Firebase Authentication · Cloud Firestore · RxJS
 
 ![Team Project](https://img.shields.io/badge/Project-Team-2B7CA7?style=flat-square)
 ![Scrum & Kanban](https://img.shields.io/badge/Workflow-Scrum_%26_Kanban-168C9D?style=flat-square)
 
-<a href="https://github.com/Juergen-Malinowski/Join">
-  <img
-    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
-    alt="Join Repository"
-  />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://join.juergen-malinowski.de)
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/Join)
 
 ---
 
