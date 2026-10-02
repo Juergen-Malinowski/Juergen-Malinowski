@@ -13,7 +13,16 @@
 </p>
 <br>
 
+
+
 <p align="center">
+  <a href="https://portfolio.juergen-malinowski.de">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Live-70E61C?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio Live"
+  />
+</a>
+  
   <a href="https://www.linkedin.com/in/jürgen-malinowski-289253425/">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-2B7CA7?style=for-the-badge&logo=linkedin&logoColor=white"
