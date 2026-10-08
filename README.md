@@ -226,19 +226,17 @@ The application uses standalone components, Angular routing, internationalizatio
 
 <img src="./assets/projects/frontend/el-pollo-loco.webp" width="220" alt="El Pollo Loco Preview" />
 
-Browser-based jump-and-run game developed with object-oriented JavaScript and Canvas.  
-The project focuses on game logic, object interaction, animation and structured frontend programming.
+Browser-based jump-and-run game built with Vanilla JavaScript, HTML, CSS and the Canvas 2D API.  
+Originally created as a frontend training project, it was expanded into a complete three-level game with increasing difficulty, responsive landscape touch controls, animated combat, Endboss encounters, a Special Jump, an airborne Stomp Combo and Chicken Scatter system, pause and audio controls, and a local Top-100 highscore.
 
-**Tech Stack:** HTML · CSS · JavaScript · OOP · Canvas
+The codebase follows an object-oriented structure with dedicated managers and renderers for collisions, game state, level progression, HUD rendering, responsive controls and lifecycle cleanup.
+
+**Tech Stack:** HTML5 · CSS3 · Vanilla JavaScript · Canvas 2D API · OOP · DOM APIs · Pointer Events · localStorage · HTML Audio
 
 ![Solo Project](https://img.shields.io/badge/Project-Solo-168C9D?style=flat-square)
 
-<a href="https://github.com/Juergen-Malinowski/modul-12-el-pollo-loco">
-  <img
-    src="https://img.shields.io/badge/View-Repository-168C9D?style=for-the-badge&logo=github&logoColor=white"
-    alt="El Pollo Loco Repository"
-  />
-</a>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-168C9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://el-pollo-loco.juergen-malinowski.de)
+[![View Repository](https://img.shields.io/badge/View-Repository-2B7CA7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juergen-Malinowski/modul-12-el-pollo-loco)
 
 ---
 
